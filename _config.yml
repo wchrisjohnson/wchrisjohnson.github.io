@@ -1,7 +1,7 @@
 name: Jekyll Blog
 timezone: America/New_York
-# markdown: redcarpet
-pygments: true
+markdown: redcarpet
+# pygments: true
 
 url: http://wchrisjohnson.github.io
 baseurl: /

@@ -1,6 +1,6 @@
 name: Jekyll Blog
 timezone: America/New_York
-# markdown: redcarpet
+markdown: redcarpet
 # pygments: true
 
 url: http://localhost:4000
