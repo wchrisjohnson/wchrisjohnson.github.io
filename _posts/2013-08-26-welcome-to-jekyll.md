@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-08-26 22:50:07
-categories: jekyll update
+title: "Welcome to Jekyll!"
+published: false
+date: 2013-08-26 22:50:07 UTC
+categories: jekyll
 ---
 
 redcarpet, md
